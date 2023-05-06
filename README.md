@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h4 align="center">A front-end dev, tinkering with React, TS and finding better ways to write tests that dont need to be upgraded as much</h3>
 
 - 📝 I regularly write articles on [https://kishokanth.com/](https://kishokanth.com/)
-- 📫 How to reach me kishokanthj@gmail.com
+- 📫 I am reachable at kishokanthj@gmail.com
 - 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/kishokanthjeganathan/)
 - 💬 Ask me about - Any technical questions of course. But I also welcome questions on how to break into IT and is happy to jump on a call to chart a study/career path for your first job
 - ⚡ Fun fact: I like reading fantasy. The more dragons the better🔥
