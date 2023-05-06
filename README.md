@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Kisho</h1>
-<h3 align="center">A front-end dev, tinkering with React, TS and finding better ways to write tests that dont need to be upgraded as much</h3>
+<h2 align="center">Hi 👋, I'm Kisho</h1>
+<h4 align="center">A front-end dev, tinkering with React, TS and finding better ways to write tests that dont need to be upgraded as much</h3>
 
 - 📝 I regularly write articles on [https://kishokanth.com/](https://kishokanth.com/)
 
 - 📫 How to reach me **kishokanthj@gmail.com**
+- 💬 Ask me about - Any technical questions of course. But I also welcome questions on how to break into IT and is happy to jump on a call to chart a study/career path for your first job
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
