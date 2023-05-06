@@ -22,12 +22,5 @@ Here are some ideas to get you started:
 
 <p> Here's a list of things I like and work well with </p>
 
-<code>JS / TS</code> &numsp;| &numsp;<code>A lot of React </code> &numsp;| &numsp;<code>Rust</code> &numsp;| &numsp;<code>Some Node.js</code>
-
-
-JavaScript (ES6), HTML5, CSS3, React, REST API, GraphQL, Node.js, Websockets
-
-React, JavaScript, GraphQL, Redis,
-Cypress, Jest, Next.js, Gatsby, Redux,
-Apollo
+<code>JS / TS</code> &numsp;| &numsp;<code>React</code> &numsp;| &numsp;<code>Some Node.js</code> | &numsp;<code>React Testing Library</code> &numsp;| &numsp;<code>Jest</code> &numsp;| &numsp;<code>Cypress</code> &numsp;
 
