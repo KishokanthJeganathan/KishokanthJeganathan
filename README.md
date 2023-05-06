@@ -16,11 +16,18 @@ Here are some ideas to get you started:
 <h4 align="center">A front-end dev, tinkering with React, TS and finding better ways to write tests that dont need to be upgraded as much</h3>
 
 - 📝 I regularly write articles on [https://kishokanth.com/](https://kishokanth.com/)
-- 📫 How to reach me **kishokanthj@gmail.com**
+- 📫 How to reach me kishokanthj@gmail.com
 - 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/kishokanthjeganathan/)
 - 💬 Ask me about - Any technical questions of course. But I also welcome questions on how to break into IT and is happy to jump on a call to chart a study/career path for your first job
 
 <p> Here's a list of things I like and work well with </p>
 
+<code>JS / TS</code> &numsp;| &numsp;<code>A lot of React </code> &numsp;| &numsp;<code>Rust</code> &numsp;| &numsp;<code>Some Node.js</code>
+
+
 JavaScript (ES6), HTML5, CSS3, React, REST API, GraphQL, Node.js, Websockets
+
+React, JavaScript, GraphQL, Redis,
+Cypress, Jest, Next.js, Gatsby, Redux,
+Apollo
 
