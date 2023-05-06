@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 <p> Here's a list of things I like and work well with </p>
 
-<code>JS / TS</code> &numsp;| &numsp;<code>React</code> &numsp;| Some &numsp;<code> Node.js</code> | &numsp;<code>React Testing Library</code> &numsp;| &numsp;<code>Jest</code> &numsp;| &numsp;<code>Cypress</code> &numsp;
+<code>JS / TS</code> &numsp;| &numsp;<code>React</code> &numsp;| Some&numsp;<code> Node.js</code> | &numsp;<code>React Testing Library</code> &numsp;| &numsp;<code>Jest</code> &numsp;| &numsp;<code>Cypress</code> &numsp;
 
