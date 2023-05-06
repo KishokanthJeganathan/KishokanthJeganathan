@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kisho</h1>
 <h3 align="center">A front-end dev, tinkering with React, TS and finding better ways to write tests that dont need to be upgraded as much</h3>
 
+- 📝 I regularly write articles on [https://kishokanth.com/](https://kishokanth.com/)
+
+- 📫 How to reach me **kishokanthj@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kishokanthjeganathan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kishokanthjeganathan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kishokanthjeganathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishokanthjeganathan" height="30" width="40" /></a>
 </p>
