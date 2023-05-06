@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi 👋, I'm Kisho</h1>
+<h2>Hi 👋, I'm Kisho</h1>
 <h4 align="center">A front-end dev, tinkering with React, TS and finding better ways to write tests that dont need to be upgraded as much</h3>
 
 - 📝 I regularly write articles on [https://kishokanth.com/](https://kishokanth.com/)
