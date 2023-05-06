@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KishokanthJeganathan/KishokanthJeganathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +16,11 @@ Here are some ideas to get you started:
 <h4 align="center">A front-end dev, tinkering with React, TS and finding better ways to write tests that dont need to be upgraded as much</h3>
 
 - 📝 I regularly write articles on [https://kishokanth.com/](https://kishokanth.com/)
-
 - 📫 How to reach me **kishokanthj@gmail.com**
+- 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/kishokanthjeganathan/)
 - 💬 Ask me about - Any technical questions of course. But I also welcome questions on how to break into IT and is happy to jump on a call to chart a study/career path for your first job
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kishokanthjeganathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishokanthjeganathan" height="30" width="40" /></a>
-</p>
+<p> Here's a list of things I like and work well with </p>
+
+JavaScript (ES6), HTML5, CSS3, React, REST API, GraphQL, Node.js, Websockets
+
