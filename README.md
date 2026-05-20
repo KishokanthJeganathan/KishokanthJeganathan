@@ -19,9 +19,3 @@ Here are some ideas to get you started:
 - 📫 I am reachable at kishokanthj@gmail.com
 - 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/kishokanthjeganathan/)
 - 💬 Ask me about - Any technical questions of course. But I also welcome questions on how to break into IT and is happy to jump on a call to chart a study/career path for your first job
-- ⚡ Fun fact: I like reading fantasy. The more dragons the better🔥
-
-<p> Here's a list of things I like and work well with </p>
-
-<code>JS / TS</code> &numsp;| &numsp;<code>React</code> &numsp;| Some&numsp;<code> Node.js</code> | &numsp;<code>React Testing Library</code> &numsp;| &numsp;<code>Jest</code> &numsp;| &numsp;<code>Cypress</code> &numsp;
-
