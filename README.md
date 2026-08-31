@@ -1,6 +1,7 @@
-<h2 align="center">Kisho Jeganathan</h2>
+<h2 align="center">Kishokanth Jeganathan</h2>
 <h4 align="center">Full stack engineer (6+ years, React / TypeScript / Node) — now focused on AI engineering: RAG, LLM pipelines, and document intelligence</h4>
 
+- 🚀 Founder of [poopeemilk.com](https://poopeemilk.com/)
 - 🔭 Building an OCR + RAG starter kit — document OCR, classification, structured extraction, and retrieval-augmented generation over private data
 - 🛠️ Core stack: React, TypeScript, Node; extending into Python, LLM orchestration, vector search, and evals
 - 📝 I write at [kishokanth.com](https://kishokanth.com/)
